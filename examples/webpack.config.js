@@ -99,7 +99,7 @@ const externals = {
   'highcharts-streamgraph': 'https://code.highcharts.com/6.2.0/modules/streamgraph.js',
   'highcharts-series-label': 'https://code.highcharts.com/6.2.0/modules/series-label.js',
   'highcharts-solid-gauge': 'https://code.highcharts.com/6.2.0/modules/solid-gauge.js',
-  'highcharts-pathfinder': 'https://code.highcharts.com/6.2.0/modules/pathfinder.js',
+  'highcharts-pathfinder': 'https://code.highcharts.com/gantt/6.2.0/modules/pathfinder.js',
   'prism':                'https://cdnjs.cloudflare.com/ajax/libs/prism/1.6.0/prism.min.js',
   'prism-jsx':            'https://cdnjs.cloudflare.com/ajax/libs/prism/1.6.0/components/prism-jsx.min.js',
   'moment':               'https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js',
@@ -140,7 +140,7 @@ module.exports = {
     'react-jsx-highcharts': 'ReactHighcharts',
     'react-jsx-highstock': 'ReactHighcharts',
     'react-jsx-highmaps': 'ReactHighcharts',
-    'react-jsx-highcharts-gantt': 'ReactHighcharts'
+    'react-jsx-highcharts-gantt': 'ReactHighchartsGantt'
   },
 
   module: {
